@@ -1,0 +1,14 @@
+D:\Semester 5\C#\Lab3 Collection & Generic\bin\Debug\net8.0\Lab3 Collection & Generic.exe
+D:\Semester 5\C#\Lab3 Collection & Generic\bin\Debug\net8.0\Lab3 Collection & Generic.deps.json
+D:\Semester 5\C#\Lab3 Collection & Generic\bin\Debug\net8.0\Lab3 Collection & Generic.runtimeconfig.json
+D:\Semester 5\C#\Lab3 Collection & Generic\bin\Debug\net8.0\Lab3 Collection & Generic.dll
+D:\Semester 5\C#\Lab3 Collection & Generic\bin\Debug\net8.0\Lab3 Collection & Generic.pdb
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.AssemblyInfoInputs.cache
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.AssemblyInfo.cs
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.csproj.CoreCompileInputs.cache
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.dll
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\refint\Lab3 Collection & Generic.dll
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.pdb
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\Lab3 Collection & Generic.genruntimeconfig.cache
+D:\Semester 5\C#\Lab3 Collection & Generic\obj\Debug\net8.0\ref\Lab3 Collection & Generic.dll
