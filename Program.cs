@@ -21,7 +21,7 @@ namespace Lab3_Collection___Generic
         }
 
 
-        public static void Swap<T>(T a, T b)
+        public static void Swap<T>(ref T a, ref T b)
         {
             T temp;
             temp = a;
@@ -170,7 +170,7 @@ namespace Lab3_Collection___Generic
                             var num1 = Input<int>();
                             Console.Write("Num 2: ");
                             var num2 = Input<int>();
-                            Swap<int>(num1, num2);
+                            Swap<int>(ref num1, ref num2);
                             Console.WriteLine("After Swap");
                             Console.WriteLine($"Num 1: {num1}");
                             Console.WriteLine($"Num 2: {num2}");
